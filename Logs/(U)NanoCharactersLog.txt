@@ -1,0 +1,671 @@
+########################################
+######## NanoCharMgr [Control] #######
+########################################
+
+############## 0 ##############
+Type 0
+NanoAbility 0
+NanoAddHp 0
+ModelFileName 
+NanoDefaultWepIndex 0
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 0
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 0
+NextLevelNanoType 0
+#########################################
+
+############## 1 ##############
+Type 1
+NanoAbility 0
+NanoAddHp 1000
+ModelFileName Models\Character\NANOGHOST.LTB
+NanoDefaultWepIndex 120
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 195
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 65535
+NextLevelNanoType 3
+#########################################
+
+############## 2 ##############
+Type 2
+NanoAbility 0
+NanoAddHp 0
+ModelFileName Models\Character\NANOGHOST.LTB
+NanoDefaultWepIndex 120
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 195
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 65535
+NextLevelNanoType 1
+#########################################
+
+############## 3 ##############
+Type 3
+NanoAbility 0
+NanoAddHp 1000
+ModelFileName Models\Character\NANOGHOST.LTB
+NanoDefaultWepIndex 182
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 196
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 65535
+NextLevelNanoType 0
+#########################################
+
+############## 4 ##############
+Type 4
+NanoAbility 0
+NanoAddHp 2000
+ModelFileName MODELS\CHARACTER\NANOHULK\NANOHULK.ltb
+NanoDefaultWepIndex 176
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 197
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 65535
+NextLevelNanoType 5
+#########################################
+
+############## 5 ##############
+Type 5
+NanoAbility 0
+NanoAddHp 1000
+ModelFileName MODELS\CHARACTER\NANOHULK\NANOHULK_UP.ltb
+NanoDefaultWepIndex 177
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 198
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 65535
+NextLevelNanoType 6
+#########################################
+
+############## 6 ##############
+Type 6
+NanoAbility 0
+NanoAddHp 1000
+ModelFileName MODELS\CHARACTER\NANOHULK\NANOHULK_UP.ltb
+NanoDefaultWepIndex 178
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 199
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 65535
+NextLevelNanoType 0
+#########################################
+
+############## 7 ##############
+Type 7
+NanoAbility 1
+NanoAddHp 0
+ModelFileName MODELS\CHARACTER\NANOCRAZY\NANO_NURSE.ltb
+NanoDefaultWepIndex 223
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 226
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 65535
+NextLevelNanoType 8
+#########################################
+
+############## 8 ##############
+Type 8
+NanoAbility 1
+NanoAddHp 1000
+ModelFileName MODELS\CHARACTER\NANOCRAZY\NANO_NURSE_UP.ltb
+NanoDefaultWepIndex 224
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 227
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 65535
+NextLevelNanoType 9
+#########################################
+
+############## 9 ##############
+Type 9
+NanoAbility 1
+NanoAddHp 1000
+ModelFileName MODELS\CHARACTER\NANOCRAZY\NANO_NURSE_UP.ltb
+NanoDefaultWepIndex 225
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 228
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 65535
+NextLevelNanoType 0
+#########################################
+
+############## 10 ##############
+Type 10
+NanoAbility 0
+NanoAddHp 3000
+ModelFileName MODELS\CHARACTER\NANOINK\NANOINK.ltb
+NanoDefaultWepIndex 302
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 305
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 65535
+NextLevelNanoType 11
+#########################################
+
+############## 11 ##############
+Type 11
+NanoAbility 0
+NanoAddHp 2000
+ModelFileName MODELS\CHARACTER\NANOINK\NANOINK_UP.ltb
+NanoDefaultWepIndex 303
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 306
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 65535
+NextLevelNanoType 12
+#########################################
+
+############## 12 ##############
+Type 12
+NanoAbility 0
+NanoAddHp 2000
+ModelFileName MODELS\CHARACTER\NANOINK\NANOINK_UP.ltb
+NanoDefaultWepIndex 304
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 307
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 65535
+NextLevelNanoType 0
+#########################################
+
+############## 13 ##############
+Type 13
+NanoAbility 0
+NanoAddHp 2000
+ModelFileName MODELS\CHARACTER\NANOASSASSIN\NANOASSASSIN.ltb
+NanoDefaultWepIndex 404
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 407
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 423
+NextLevelNanoType 14
+#########################################
+
+############## 14 ##############
+Type 14
+NanoAbility 0
+NanoAddHp 1000
+ModelFileName MODELS\CHARACTER\NANOASSASSIN\NANOASSASSIN_UP.ltb
+NanoDefaultWepIndex 405
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 408
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 423
+NextLevelNanoType 15
+#########################################
+
+############## 15 ##############
+Type 15
+NanoAbility 0
+NanoAddHp 1000
+ModelFileName MODELS\CHARACTER\NANOASSASSIN\NANOASSASSIN_UP.ltb
+NanoDefaultWepIndex 406
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 409
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 423
+NextLevelNanoType 0
+#########################################
+
+############## 16 ##############
+Type 16
+NanoAbility 0
+NanoAddHp 0
+ModelFileName MODELS\CHARACTER\Terminator\Terminator_BL.ltb
+NanoDefaultWepIndex 540
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 540
+NanoSpecialWepInvisible 1
+NanoSkillWepIndex 65535
+NextLevelNanoType 17
+#########################################
+
+############## 17 ##############
+Type 17
+NanoAbility 0
+NanoAddHp 0
+ModelFileName MODELS\CHARACTER\Terminator\Terminator_BL.ltb
+NanoDefaultWepIndex 540
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 540
+NanoSpecialWepInvisible 1
+NanoSkillWepIndex 65535
+NextLevelNanoType 18
+#########################################
+
+############## 18 ##############
+Type 18
+NanoAbility 0
+NanoAddHp 0
+ModelFileName MODELS\CHARACTER\Terminator\Terminator_BL.ltb
+NanoDefaultWepIndex 540
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 540
+NanoSpecialWepInvisible 1
+NanoSkillWepIndex 65535
+NextLevelNanoType 0
+#########################################
+
+############## 19 ##############
+Type 19
+NanoAbility 0
+NanoAddHp 0
+ModelFileName MODELS\CHARACTER\GrandTerminator\NANO_Grand-Terminator.ltb
+NanoDefaultWepIndex 672
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 672
+NanoSpecialWepInvisible 1
+NanoSkillWepIndex 65535
+NextLevelNanoType 20
+#########################################
+
+############## 20 ##############
+Type 20
+NanoAbility 0
+NanoAddHp 0
+ModelFileName MODELS\CHARACTER\GrandTerminator\NANO_Grand-Terminator.ltb
+NanoDefaultWepIndex 672
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 672
+NanoSpecialWepInvisible 1
+NanoSkillWepIndex 65535
+NextLevelNanoType 21
+#########################################
+
+############## 21 ##############
+Type 21
+NanoAbility 0
+NanoAddHp 0
+ModelFileName MODELS\CHARACTER\GrandTerminator\NANO_Grand-Terminator.ltb
+NanoDefaultWepIndex 672
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 672
+NanoSpecialWepInvisible 1
+NanoSkillWepIndex 65535
+NextLevelNanoType 0
+#########################################
+
+############## 22 ##############
+Type 0
+NanoAbility 0
+NanoAddHp 0
+ModelFileName 
+NanoDefaultWepIndex 0
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 0
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 0
+NextLevelNanoType 0
+#########################################
+
+############## 23 ##############
+Type 0
+NanoAbility 0
+NanoAddHp 0
+ModelFileName 
+NanoDefaultWepIndex 0
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 0
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 0
+NextLevelNanoType 0
+#########################################
+
+############## 24 ##############
+Type 0
+NanoAbility 0
+NanoAddHp 0
+ModelFileName 
+NanoDefaultWepIndex 0
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 0
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 0
+NextLevelNanoType 0
+#########################################
+
+############## 25 ##############
+Type 1243142958
+NanoAbility 211917043
+NanoAddHp 0
+ModelFileName 
+NanoDefaultWepIndex 0
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 0
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 0
+NextLevelNanoType 0
+#########################################
+
+############## 26 ##############
+Type -325915133
+NanoAbility -259592005
+NanoAddHp -123537358
+ModelFileName õ$[¦Â™ÿ	þ…üHø1óNïCì[ëßì\ï1ò'ó»ôWø4ý^
+NanoDefaultWepIndex -67128
+NanoDefaultWepInvisible 145687915
+NanoSpecialWepIndex 133827003
+NanoSpecialWepInvisible 122553983
+NanoSkillWepIndex 177539580
+NextLevelNanoType 110233857
+#########################################
+
+############## 27 ##############
+Type 0
+NanoAbility 0
+NanoAddHp 0
+ModelFileName 
+NanoDefaultWepIndex 0
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 0
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 0
+NextLevelNanoType 0
+#########################################
+
+############## 28 ##############
+Type 0
+NanoAbility 0
+NanoAddHp 0
+ModelFileName 
+NanoDefaultWepIndex 0
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 0
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 0
+NextLevelNanoType 0
+#########################################
+
+############## 29 ##############
+Type 121440307
+NanoAbility 8846792
+NanoAddHp -19794569
+ModelFileName mó5þôƒûœþÛú
+©<¶-
+NanoDefaultWepIndex -150336885
+NanoDefaultWepInvisible 36244755
+NanoSpecialWepIndex 27001370
+NanoSpecialWepInvisible 86306677
+NanoSkillWepIndex 40108466
+NextLevelNanoType 36442318
+#########################################
+
+############## 30 ##############
+Type -32701373
+NanoAbility -24969499
+NanoAddHp 41550074
+ModelFileName [þýMÿB¾þÐ
+NanoDefaultWepIndex -44302318
+NanoDefaultWepInvisible 111543727
+NanoSpecialWepIndex 56229820
+NanoSpecialWepInvisible 40960616
+NanoSkillWepIndex -10289196
+NextLevelNanoType 17039924
+#########################################
+
+############## 31 ##############
+Type 4456030
+NanoAbility -5177548
+NanoAddHp 41943156
+ModelFileName 
+NanoDefaultWepIndex 5833319
+NanoDefaultWepInvisible -12451847
+NanoSpecialWepIndex 786399
+NanoSpecialWepInvisible -851822
+NanoSkillWepIndex -8192018
+NextLevelNanoType 8847058
+#########################################
+
+############## 32 ##############
+Type 5046222
+NanoAbility 12058723
+NanoAddHp 12320981
+ModelFileName U
+NanoDefaultWepIndex 9633889
+NanoDefaultWepInvisible -14417948
+NanoSpecialWepIndex -14483716
+NanoSpecialWepInvisible -1704000
+NanoSkillWepIndex -1245357
+NextLevelNanoType 13107408
+#########################################
+
+############## 33 ##############
+Type 3866748
+NanoAbility -7143473
+NanoAddHp -2228311
+ModelFileName 0
+NanoDefaultWepIndex -524253
+NanoDefaultWepInvisible -3539000
+NanoSpecialWepIndex -2424903
+NanoSpecialWepInvisible 5046289
+NanoSkillWepIndex 6160503
+NextLevelNanoType 2097183
+#########################################
+
+############## 34 ##############
+Type 983064
+NanoAbility 262148
+NanoAddHp -131088
+ModelFileName &
+NanoDefaultWepIndex 2752527
+NanoDefaultWepInvisible 4128833
+NanoSpecialWepIndex 1966122
+NanoSpecialWepInvisible -2555908
+NanoSkillWepIndex -4849722
+NextLevelNanoType -262193
+#########################################
+
+############## 35 ##############
+Type 393251
+NanoAbility -655365
+NanoAddHp 2359321
+ModelFileName ÷ÿ
+NanoDefaultWepIndex 983066
+NanoDefaultWepInvisible 1179663
+NanoSpecialWepIndex 1048603
+NanoSpecialWepInvisible -1507333
+NanoSkillWepIndex -2228260
+NextLevelNanoType -917524
+#########################################
+
+############## 36 ##############
+Type 327688
+NanoAbility 196616
+NanoAddHp -1769491
+ModelFileName ìÿòÿ÷ÿøÿúÿöÿöÿôÿ÷ÿúÿýÿ
+NanoDefaultWepIndex -1703965
+NanoDefaultWepInvisible -917524
+NanoSpecialWepIndex -589829
+NanoSpecialWepInvisible -1245198
+NanoSkillWepIndex -1638421
+NextLevelNanoType -1900569
+#########################################
+
+############## 37 ##############
+Type 65537
+NanoAbility -393222
+NanoAddHp 196606
+ModelFileName ÿÿþÿýÿúÿûÿüÿþÿ
+NanoDefaultWepIndex 589829
+NanoDefaultWepInvisible 1114129
+NanoSpecialWepIndex 786446
+NanoSpecialWepInvisible 720905
+NanoSkillWepIndex 327686
+NextLevelNanoType 131074
+#########################################
+
+############## 38 ##############
+Type 196607
+NanoAbility 196609
+NanoAddHp 131077
+ModelFileName 
+NanoDefaultWepIndex 262146
+NanoDefaultWepInvisible 327683
+NanoSpecialWepIndex 196612
+NanoSpecialWepInvisible 65537
+NanoSkillWepIndex 65535
+NextLevelNanoType -131071
+#########################################
+
+############## 39 ##############
+Type 131072
+NanoAbility 65536
+NanoAddHp 0
+ModelFileName 
+NanoDefaultWepIndex -196609
+NanoDefaultWepInvisible -393215
+NanoSpecialWepIndex -65536
+NanoSpecialWepInvisible -2
+NanoSkillWepIndex 65540
+NextLevelNanoType 131076
+#########################################
+
+############## 40 ##############
+Type 1
+NanoAbility 131071
+NanoAddHp 0
+ModelFileName 
+NanoDefaultWepIndex 131071
+NanoDefaultWepInvisible 196606
+NanoSpecialWepIndex 65534
+NanoSpecialWepInvisible 65537
+NanoSkillWepIndex 131072
+NextLevelNanoType -65535
+#########################################
+
+############## 41 ##############
+Type 0
+NanoAbility 0
+NanoAddHp 65536
+ModelFileName 
+NanoDefaultWepIndex 0
+NanoDefaultWepInvisible 1
+NanoSpecialWepIndex 0
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 0
+NextLevelNanoType 0
+#########################################
+
+############## 42 ##############
+Type 1
+NanoAbility 1409
+NanoAddHp 1
+ModelFileName 
+NanoDefaultWepIndex 1
+NanoDefaultWepInvisible 1434
+NanoSpecialWepIndex 84
+NanoSpecialWepInvisible 1
+NanoSkillWepIndex 0
+NextLevelNanoType 0
+#########################################
+
+############## 43 ##############
+Type 0
+NanoAbility 0
+NanoAddHp 0
+ModelFileName 
+NanoDefaultWepIndex 0
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 0
+NanoSpecialWepInvisible 0
+NanoSkillWepIndex 0
+NextLevelNanoType 0
+#########################################
+
+############## 44 ##############
+Type 23
+NanoAbility 1
+NanoAddHp -64
+ModelFileName Äÿÿÿ
+NanoDefaultWepIndex 322
+NanoDefaultWepInvisible 0
+NanoSpecialWepIndex 0
+NanoSpecialWepInvisible 12
+NanoSkillWepIndex 322
+NextLevelNanoType -22
+#########################################
+
+############## 45 ##############
+Type -7
+NanoAbility -64
+NanoAddHp 12
+ModelFileName 
+NanoDefaultWepIndex 111
+NanoDefaultWepInvisible 147
+NanoSpecialWepIndex 127
+NanoSpecialWepInvisible 147
+NanoSkillWepIndex 2
+NextLevelNanoType 111
+#########################################
+
+############## 46 ##############
+Type 35
+NanoAbility 47
+NanoAddHp 1684996097
+ModelFileName ult\InvenGoDown.tga
+NanoDefaultWepIndex 1317207851
+NanoDefaultWepInvisible -2013239956
+NanoSpecialWepIndex 1432111445
+NanoSpecialWepInvisible 1766678345
+NanoSkillWepIndex 1869181811
+NextLevelNanoType 1936020078
+#########################################
+
+############## 47 ##############
+Type 1667330657
+NanoAbility 1601332596
+NanoAddHp 1348429172
+ModelFileName ýþ‚N
+NanoDefaultWepIndex 1701331804
+NanoDefaultWepInvisible 1866885987
+NanoSpecialWepIndex 779318627
+NanoSpecialWepInvisible 4278100
+NanoSkillWepIndex 348559944
+NextLevelNanoType 348559976
+#########################################
+
+############## 48 ##############
+Type 66846
+NanoAbility 348520449
+NanoAddHp -2013220728
+ModelFileName eriorCheck.tga
+NanoDefaultWepIndex 1432111445
+NanoDefaultWepInvisible 1750294345
+NanoSpecialWepIndex 1546809455
+NanoSpecialWepInvisible 1866682455
+NanoSkillWepIndex 1918988397
+NextLevelNanoType 1886737253
+#########################################
+
+############## 49 ##############
+Type 349017088
+NanoAbility 1919897189
+NanoAddHp 1632790894
+ModelFileName xF"(ÕÆ˜ÕÆe
+NanoDefaultWepIndex 28
+NanoDefaultWepInvisible 31
+NanoSpecialWepIndex 66860
+NanoSpecialWepInvisible -2147483648
+NanoSkillWepIndex 1317207312
+NextLevelNanoType -2013245851
+#########################################
+
+############## 50 ##############
+Type 1317207265
+NanoAbility -2013265920
+NanoAddHp 348575576
+ModelFileName !
+NanoDefaultWepIndex 348575912
+NanoDefaultWepInvisible 348646248
+NanoSpecialWepIndex 348576528
+NanoSpecialWepInvisible 348646312
+NanoSkillWepIndex 1311237717
+NextLevelNanoType -2147483648
+#########################################
+
+########################################
+########################################
+

@@ -1,0 +1,619 @@
+########################################
+#### I2esp ## CharacterData ##### ect ##
+########################################
+
+######################0##################
+Character Name : [인테러기본]
+Index: 59833
+HeadType : 0
+Uniform: 0
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################1##################
+Character Name : [동테러기본]
+Index: 57281
+HeadType : 1
+Uniform: 0
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################2##################
+Character Name : [인테러기본]
+Index: 59080
+HeadType : 2
+Uniform: 0
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################3##################
+Character Name : [양인테러기본]
+Index: 49077
+HeadType : 3
+Uniform: 0
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################4##################
+Character Name : [인대테러기본]
+Index: 59833
+HeadType : 0
+Uniform: 1
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################5##################
+Character Name : [동대테러기본]
+Index: 57281
+HeadType : 1
+Uniform: 1
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################6##################
+Character Name : [인대테러기본]
+Index: 59080
+HeadType : 2
+Uniform: 1
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################7##################
+Character Name : [양인대테러기본]
+Index: 49077
+HeadType : 3
+Uniform: 1
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################8##################
+Character Name : [인대테러기본남색]
+Index: 59833
+HeadType : 0
+Uniform: 2
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################9##################
+Character Name : [동대테러기본남색]
+Index: 57281
+HeadType : 1
+Uniform: 2
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################10##################
+Character Name : [인대테러기본남색]
+Index: 59080
+HeadType : 2
+Uniform: 2
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################11##################
+Character Name : [양인대테러기본남색]
+Index: 49077
+HeadType : 3
+Uniform: 2
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################12##################
+Character Name : [인대테러베스트녹색]
+Index: 59833
+HeadType : 0
+Uniform: 3
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################13##################
+Character Name : [동대테러베스트녹색]
+Index: 57281
+HeadType : 1
+Uniform: 3
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################14##################
+Character Name : [인대테러베스트녹색]
+Index: 59080
+HeadType : 2
+Uniform: 3
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################15##################
+Character Name : [양인대테러베스트녹색]
+Index: 49077
+HeadType : 3
+Uniform: 3
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################16##################
+Character Name : [인대테러베스트남색]
+Index: 59833
+HeadType : 0
+Uniform: 4
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################17##################
+Character Name : [동대테러베스트남색]
+Index: 57281
+HeadType : 1
+Uniform: 4
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################18##################
+Character Name : [인대테러베스트남색]
+Index: 59080
+HeadType : 2
+Uniform: 4
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################19##################
+Character Name : [양인대테러베스트남색]
+Index: 49077
+HeadType : 3
+Uniform: 4
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################20##################
+Character Name : [인대테러베스트녹색얼룩]
+Index: 59833
+HeadType : 0
+Uniform: 5
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################21##################
+Character Name : [동대테러베스트녹색얼룩]
+Index: 57281
+HeadType : 1
+Uniform: 5
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################22##################
+Character Name : [인대테러베스트녹색얼룩]
+Index: 59080
+HeadType : 2
+Uniform: 5
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################23##################
+Character Name : [양인대테러베스트녹색얼룩]
+Index: 49077
+HeadType : 3
+Uniform: 5
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################24##################
+Character Name : [인테러조끼]
+Index: 59833
+HeadType : 0
+Uniform: 17
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################25##################
+Character Name : [동테러조끼]
+Index: 57281
+HeadType : 1
+Uniform: 17
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################26##################
+Character Name : [인테러조끼]
+Index: 59080
+HeadType : 2
+Uniform: 17
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################27##################
+Character Name : [양인테러조끼]
+Index: 49077
+HeadType : 3
+Uniform: 17
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################28##################
+Character Name : [인테러깔깔이]
+Index: 59833
+HeadType : 0
+Uniform: 18
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################29##################
+Character Name : [동테러깔깔이]
+Index: 57281
+HeadType : 1
+Uniform: 18
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################30##################
+Character Name : [인테러깔깔이]
+Index: 59080
+HeadType : 2
+Uniform: 18
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################31##################
+Character Name : [양인테러깔깔이]
+Index: 49077
+HeadType : 3
+Uniform: 18
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################32##################
+Character Name : [인대테러SAS]
+Index: 59833
+HeadType : 0
+Uniform: 38
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################33##################
+Character Name : [동대테러SAS]
+Index: 57281
+HeadType : 1
+Uniform: 38
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################34##################
+Character Name : [인대테러SAS]
+Index: 59080
+HeadType : 2
+Uniform: 38
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################35##################
+Character Name : [양인대테러SAS]
+Index: 49077
+HeadType : 3
+Uniform: 38
+Target: 1
+Special Item Type: -1
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################36##################
+Character Name : [스크대테러기본]
+Index: 46776
+HeadType : -1
+Uniform: 1
+Target: 1
+Special Item Type: 21
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################37##################
+Character Name : [스크대테러기본남색]
+Index: 46776
+HeadType : -1
+Uniform: 2
+Target: 1
+Special Item Type: 21
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################38##################
+Character Name : [스크대테러베스트녹색]
+Index: 46776
+HeadType : -1
+Uniform: 3
+Target: 1
+Special Item Type: 21
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################39##################
+Character Name : [스크대테러베스트남색]
+Index: 46776
+HeadType : -1
+Uniform: 4
+Target: 1
+Special Item Type: 21
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################40##################
+Character Name : [스크대테러베스트녹색얼룩]
+Index: 46776
+HeadType : -1
+Uniform: 5
+Target: 1
+Special Item Type: 21
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################41##################
+Character Name : [스크대테러SAS]
+Index: 46776
+HeadType : -1
+Uniform: 38
+Target: 1
+Special Item Type: 21
+ModelFileName :Models\Character\M_GR_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_GR_001.dtx
+########################################
+
+######################42##################
+Character Name : [인테러기본겨자색]
+Index: 59833
+HeadType : 0
+Uniform: 22
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################43##################
+Character Name : [동테러기본겨자색]
+Index: 57281
+HeadType : 1
+Uniform: 22
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################44##################
+Character Name : [인테러기본겨자색]
+Index: 59080
+HeadType : 2
+Uniform: 22
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################45##################
+Character Name : [양인테러기본겨자색]
+Index: 49077
+HeadType : 3
+Uniform: 22
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################46##################
+Character Name : [인테러신복장3]
+Index: 59833
+HeadType : 0
+Uniform: 24
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################47##################
+Character Name : [동테러신복장3]
+Index: 57281
+HeadType : 1
+Uniform: 24
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################48##################
+Character Name : [인테러신복장3]
+Index: 59080
+HeadType : 2
+Uniform: 24
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################49##################
+Character Name : [양인테러신복장3]
+Index: 49077
+HeadType : 3
+Uniform: 24
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+######################50##################
+Character Name : [인테러신복장4]
+Index: 59833
+HeadType : 0
+Uniform: 27
+Target: 0
+Special Item Type: -1
+ModelFileName :Models\Character\M_BL_001.ltb
+ChildModel : Models\Character\M-motion.ltb
+SkinFile : ModelTextures\Character\M_BL_001.dtx
+########################################
+
+########################################
+########################################
+
