@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{B661DB45-4C98-4EF1-B02C-F775E87F8613}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>CF_Server</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>CF_Server</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <Prefer32Bit>false</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\Documents\Visual Studio 2012\Projects\AlchemistReceiver\AlchemistReceiver\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.XML" />
+    <Reference Include="SystemExtensions">
+      <HintPath>D:\My Work\LordsRoad\bin\Debug\SystemExtensions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Client\GameClient.cs" />
+    <Compile Include="Misc\Constants.cs" />
+    <Compile Include="Misc\Kernel.cs" />
+    <Compile Include="Network\Auth\AuthPackets\Packet.cs" />
+    <Compile Include="Network\Auth\PacketHandler.cs" />
+    <Compile Include="Structures\Battle.cs" />
+    <Compile Include="Database\EntityTable.cs" />
+    <Compile Include="Misc\Enums.cs" />
+    <Compile Include="Structures\Clan.cs" />
+    <Compile Include="Structures\Item.cs" />
+    <Compile Include="Structures\Entity.cs" />
+    <Compile Include="Network\Game\GamePackets\Packet.cs" />
+    <Compile Include="Network\Game\PacketHandler.cs" />
+    <Compile Include="Database\AccountTable.cs" />
+    <Compile Include="Structures\GameServer.cs" />
+    <Compile Include="Client\AuthClient.cs" />
+    <Compile Include="Database\MySql\MySqlCommand.cs" />
+    <Compile Include="Database\MySql\MySqlExtensions.cs" />
+    <Compile Include="Database\MySql\MySqlReader.cs" />
+    <Compile Include="Network\Sockets\ClientWrapper.cs" />
+    <Compile Include="Network\Writer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Network\Sockets\ServerSocket.cs" />
+    <Compile Include="Misc\Thread.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
